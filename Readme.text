@@ -1,2 +1,6 @@
 <<Hello their im learning Git>>
+<<<<<<< HEAD
 Changed for test cases to verify
+=======
+this is changed to cause some test cases
+>>>>>>> test
